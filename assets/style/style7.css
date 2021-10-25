@@ -1,0 +1,72 @@
+.header{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 80px;
+    text-align: center;
+    padding-top:4px;
+    font-size: 14px;
+    
+}
+.list{
+    background-color:yellow;
+    width: 26%;
+    padding-left: 50px;
+}
+.black__square1, .black__square2, .black__square3{
+    
+    
+    background-color:black;
+    width: 121px;
+    height: 90px;
+    
+
+}
+.brown{
+    background-color:
+    rgb(84, 73, 58)
+    ;
+    width: 72%;
+    height: 420px;
+    
+    
+}
+.footer{
+    background-color:black;
+    color: white;
+    margin-top: -21px;
+    height: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.centre{
+    display:flex;
+    flex-direction: row;
+}
+.container{
+    width: 60%;
+    margin-left: 20%;
+}
+.cssflwxbox{
+    width: 460px;
+    height: 218px;
+}
+.blacksquares{
+display: flex;
+flex-direction:row;
+justify-content: space-between;
+padding-right: 20px;
+padding-left: 20px;
+padding-bottom: 20px;
+
+
+}
+.imgh2{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+.art__2{
+    color: white;
+
+}

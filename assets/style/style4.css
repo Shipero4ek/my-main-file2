@@ -1,0 +1,36 @@
+.green__h1{
+    color: aquamarine;
+    
+}
+.tittle{
+    text-align: center;
+    font-size: 40px;
+}
+.click{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+
+}
+.table__1{
+    border:2px solid black;
+    width: 400px;
+    height: 800px;
+}
+.table__2{
+    border: 2px solid black;
+    width: 1500px;
+    height: 800px;
+}
+.user__1{
+    text-align: center;
+}
+.centre__img{
+    text-align: center;
+}
+.table__2 h1{
+    font-size: 30px;
+    
+}
+
+

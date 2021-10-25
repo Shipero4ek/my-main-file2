@@ -1,0 +1,30 @@
+td{
+    border-left: 4px solid blue;
+    width: 1000px;
+    height: 100px;
+    
+
+
+}
+body{
+    font-family: 'Andada Pro', serif;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+}
+td:hover{
+    border-color: rgb(51, 102, 1);
+
+}
+.red__color{
+    color:red;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+table{
+    margin-left: 200px;
+
+}
