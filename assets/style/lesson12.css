@@ -1,0 +1,93 @@
+.form__lesson{
+    background-color: #F0F4F3;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+.container{
+    
+    width: 900px;
+    
+    height: 610px;
+    font-family: 'Montserrat', sans-serif;
+    
+    border: 1px;
+    border-radius: 20px;
+
+}
+.container__insider{  
+    display:flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    
+    height: 100vh;
+
+}
+.left__material{
+    width: 490px;
+    background-color: #FFFFFF;
+    display:flex;
+    
+    height: 100vh;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    color: #697a79;
+
+}
+.right_material{
+    width:410px;
+    background-color: #3ab19b;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    color: white;
+}
+.object__number3{
+    display:flex;
+    justify-content: space-between;
+    height: 82px;
+    width: 250px;
+}
+.object{
+    border: 2px solid black;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    color: inherit;
+    font-weight: 700px;
+
+}
+.top__left__material{
+    font-weight: 700px;
+    color: #697a79;
+    font-size: 20px;
+    margin-bottom: 16px;
+    
+}
+.text__1, .text__2{
+    width: 300px;
+    height: 40px;
+    background-color: rgb(209, 226, 220);
+    border: 0px;
+    padding-left: 10px;
+    font-family: inherit;
+}
+.text__1{
+    margin-bottom: 15px;
+}
+.material__insider{
+    text-align: center;
+}
+.text__insider__circle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700px;
+    color: rgb(19, 17, 17);
+}
+
